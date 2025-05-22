@@ -3,14 +3,6 @@
 Welcome to the **Tour and Travel Website** – a comprehensive platform designed to inspire and facilitate your travel adventures. This project showcases a dynamic and responsive website that offers information on various travel packages, services, and destinations.
 
 ---
-
-## 🚀 Live Demo
-
-Experience the website firsthand:  
-👉 [Live Demo](https://dhanalaxmisanapala2005.github.io/Tour-and-travel-website/)
-
----
-
 ## 🛠️ Technologies Used
 
 - **HTML** – Structuring the web content.
